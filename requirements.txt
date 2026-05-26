@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+google-generativeai
+python-multipart
+scikit-learn
+pandas
+requests
+pydantic
